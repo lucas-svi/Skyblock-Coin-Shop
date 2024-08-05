@@ -24,7 +24,7 @@ Skyblock Coin Shop is a Discord-based application that creates a marketplace for
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/SkyblockCoinShop.git
+   git clone https://github.com/lucas-svi/skyblock-coin-shop.git
    cd SkyblockCoinShop
    ```
 
